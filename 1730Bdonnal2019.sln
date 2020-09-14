@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30413.136
+VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bdonnal1730ex1b", "Bdonnal1730ex1b\Bdonnal1730ex1b.csproj", "{9CEFDDD7-9D3A-40EB-8947-282F3B4A1DC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bdonnal1c1", "Bdonnal1c1\Bdonnal1c1.csproj", "{77117DFF-98F8-4AC6-B61C-8201497AB6F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bdonnal1d1", "Bdonnal1d1\Bdonnal1d1.csproj", "{DEABB663-D0A9-48D2-AD22-BA898A2B114B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdonnalEx1E", "BdonnalEx1E\BdonnalEx1E.csproj", "{E944B052-320C-44FA-AAF5-84FE663F702E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,11 +29,15 @@ Global
 		{DEABB663-D0A9-48D2-AD22-BA898A2B114B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEABB663-D0A9-48D2-AD22-BA898A2B114B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEABB663-D0A9-48D2-AD22-BA898A2B114B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E944B052-320C-44FA-AAF5-84FE663F702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E944B052-320C-44FA-AAF5-84FE663F702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E944B052-320C-44FA-AAF5-84FE663F702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E944B052-320C-44FA-AAF5-84FE663F702E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3F22F3F4-026A-4155-8B0B-EC173281B83E}
+		SolutionGuid = {E9330FE5-0A3A-47C7-8713-B02874EE2389}
 	EndGlobalSection
 EndGlobal
